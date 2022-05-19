@@ -1,3 +1,4 @@
 git status
 git checkout new branch
 git branch new branch
+git pull
