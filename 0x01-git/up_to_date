@@ -1,4 +1,4 @@
-git status
-git checkout new branch
-git branch new branch
+git add .
+git commit -m
+git push
 git pull
